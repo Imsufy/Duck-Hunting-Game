@@ -1,5 +1,5 @@
 DUCK HUNT GAME 
-Play the game
+<a href="https://gifted-spence-26602d.netlify.app/"><Play the Game>
 
 This is an implementation of DuckHunt Game in HTML and CSS. It uses the Checkbox tag as a Hunting Mechanism , 30 to 60 FPS Graphics, CSS Animations and CSS Styling
 
